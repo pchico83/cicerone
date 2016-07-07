@@ -1,3 +1,5 @@
+![Logo](./logo.png)
+
 # cicerone
 An open source app to book cicerones anywhere in the world
 
